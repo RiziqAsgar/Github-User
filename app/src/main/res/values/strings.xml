@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="menu_1">Announcement</string>
+    <string name="menu_close">Keluar</string>
+    <string name="menu_back">Kembali</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_fragment">Ini adalah menu tentang about</string>
+    <string name="search">Masukkan Nama</string>
+    <string name="btnSearch">Search</string>
+    <string name="name" />
+    <string name="username" />
+    <string name="txt_followers">Followers</string>
+    <string name="txt_following">Following</string>
+
+    <string name="status_info">Klik dan Tulis Untuk Mencari..</string>
+    <string name="search_username">Cari Nama Pengguna</string>
+    <string name="instruction_status_info">Klik dan Ketik untuk Mencari Pengguna</string>
+    <string name="following">Following : %s </string>
+    <string name="location" />
+    <string name="company" />
+    <string name="followers" />
+    <string name="repository" />
+    <string name="github_logo"/>
+    <string name="splash_screen_app_name">Github Users App</string>
+    <string name="app_title_detail">Detail User</string>
+
+
+</resources>
